@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vadim Arslanov</h1>
-<h3 align="center">I'm developer from Russia</h3>
 <img align="center" alt="Aizen" width="100%" src="https://media.tenor.com/KJXzA3KIplUAAAAd/aizen.gif"
 
 <h3 align="left">Languages and Tools:</h3>
