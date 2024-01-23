@@ -5,5 +5,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=averake&langs_count=7&bg_color=080808&title_color=ffffff&text_color=ffffff&border_color=000000&size_weight=1.0&count_weight=0.0&exclude_repo=dotfiles,devblog&layout=donut" height="210" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=averake&theme=tokyonight&border=000000&background=080808&fire=FF9E64&sideLabels=A9B1D6&dates=9AA5CE&currStreakNum=2AC3DE&ring=414868" alt="GitHub Streak" height="210" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=averake&theme=youtube-dark" alt="GitHub Streak" height="210" /></a>
 <p/>
