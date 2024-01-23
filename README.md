@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Vadim Arslanov</h1>
 <img align="center" alt="Aizen" width="100%" src="https://www.icegif.com/wp-content/uploads/2023/08/icegif-404.gif"
 
 <h1 align="left">Languages and Tools that I used and tried:</h1>
