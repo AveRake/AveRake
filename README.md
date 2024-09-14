@@ -1,6 +1,6 @@
 <h1 align="center"></h1>
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/UQESusJVIRwAAAAC/aizen-aizen-form.gif" width="100%"/>
+  <img src="https://media1.tenor.com/m/rlU1iHrbvv8AAAAC/aizen.gif" width="100%"/>
 </div>
 
 <p align="center">
